@@ -1,5 +1,5 @@
 {
-    "name": "delfimov/mdash",
+    "name": "afishamedia/mdash-typograph-php",
     "description": "PHP версия типографа Муравьева",
     "keywords": ["типограф", "Муравьев", "typograph", "russian", "русский"],
     "license": "Public Domain",
@@ -7,6 +7,11 @@
         {
             "name": "Vitaly Baev",
             "email": "dj@vitalybaev.ru"
+        }, 
+        {
+            "name": "Dmitriy U.",
+            "email": "akiba@wolfness.org",
+            "homepage": "https://akibawolf.com"
         }
     ],
     "require": {},
