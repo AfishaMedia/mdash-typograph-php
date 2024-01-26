@@ -2,7 +2,7 @@
     "name": "afishamedia/mdash-typograph-php",
     "description": "PHP версия типографа Муравьева",
     "keywords": ["типограф", "Муравьев", "typograph", "russian", "русский"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "Public Domain",
     "authors": [
         {
