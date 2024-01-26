@@ -20,6 +20,8 @@ class Base {
 	 */
 	public    $rules;
 	public    $title;
+	
+	public    $EMT;
 
 
 	private   $disabled = array();
